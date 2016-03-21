@@ -37,6 +37,11 @@ node_modules
 [._]s[a-w][a-z]
 Session.vim
 
-# Build results
-demo/lib
-lib
+# Unneeded files
+extedit.min.tar.gz
+demo
+src
+.babelrc
+.eslintrc.json
+.editorconfig
+webpack.config.js
